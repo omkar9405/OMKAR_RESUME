@@ -41,6 +41,15 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+.head {
+  font-size: 50px;
+  margin-bottom: -5px;
+  background: rgb(38,88,164);
+background: linear-gradient(90deg, rgba(38,88,164,0.93015332197615) 0%, rgba(199,70,45,0.9420783645655877) 10%, rgba(72,9,143,0.9403747870528109) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 
 h3 {
     font-size: 20px;
