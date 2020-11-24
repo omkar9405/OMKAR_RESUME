@@ -1,0 +1,15 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.doc{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background: rgb(217,227,95);
+    background: linear-gradient(90deg, rgba(217,227,95,0.93015332197615) 0%, rgba(169,205,98,0.9403747870528109) 22%, rgba(21,203,124,0.9420783645655877) 100%);
+    box-sizing: border-box;
+    box-shadow: 0px 0px 15px rgba(15, 15, 15, 0.8);
+}
